@@ -1,2 +1,2 @@
-# JDE_Final_Project
+# GENHK_Final_Project
 The Final Project in Genhk 
