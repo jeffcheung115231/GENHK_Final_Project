@@ -2,9 +2,9 @@
 ## Contents
 The project includes the following components:
 
-Data Analysis Tools
-Brands (Olist)
-BI Tools
+- Data Analysis Tools
+- Brands (Olist)
+- BI Tools
 Database
 Sentiment Analysis
 Conclusion
