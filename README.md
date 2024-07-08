@@ -5,19 +5,20 @@ The project includes the following components:
 - Data Analysis Tools
 - Brands (Olist)
 - BI Tools
-Database
-Sentiment Analysis
-Conclusion
-Data Analysis Tools
+- Database
+- Sentiment Analysis
+- Conclusion
+
+* Data Analysis Tools
 The Data Analysis Tools section covers the steps involved in market research and data analysis. It includes topics such as RFM, sales, product, sales, customer habits and delivery. By analyzing this data, we can see the changes in sales performance in the past two years, the seller's operating conditions, the regional distribution of customers, customer purchasing preferences, etc. In order to improve the existing situation and improve performance.
 
-Brands
+* Brands
 This section provides information about Brazilian e-commerce platform Olist Store data from August 2016 to August 2018.
 
-BI Tools
+* BI Tools
 The Scraping Tool section focuses on Microsoft PowerBI. Using PowerBI convert the data to correspond chart, include bar chart, pie chart, line chart data sheet, map, etc.
 
-Database
+* Database
 The Database section explains the entity relationship diagram and schemas used for data storage and organization. It includes the creation of tables in the database using SQL queries and the insertion of data from CSV files. The data have to go through a ETL( Extract, Transform, Load) before use.
 
 Sentiment Analysis
