@@ -1,5 +1,5 @@
 # Olist_Analysis_Project
-Contents
+## Contents
 The project includes the following components:
 
 Data Analysis Tools
